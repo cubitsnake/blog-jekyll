@@ -1,6 +1,6 @@
 # blog-jekyll
 
-cubicsteak의 개인 블로그. [Jekyll](https://jekyllrb.com/) + [Minima](https://github.com/jekyll/minima) 테마.
+cubitsnake의 개인 블로그. [Jekyll](https://jekyllrb.com/) + [Minima](https://github.com/jekyll/minima) 테마.
 
 - 사이트: https://jekyll-416.pages.dev
 - 배포: `blog` 브랜치에 push하면 Cloudflare Pages가 자동으로 빌드하고 배포
